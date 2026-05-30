@@ -8,20 +8,24 @@ An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
-### Dependencies
+### Usage
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Press the button once to show the time, hold it 3 seconds to set the time.
+* When setting the time press once to increase by one, hold 3 seconds to move to another digit.
+* To charge simply plug in the usb-c. (around 5 days per charge for a 100mah battery)
+* Green led mean battery ok and red means it's running low.
 
-### Installing
+### Assembling
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* The text on the silk screen corresponse to the schematic so soldering should be easy.
+* Connect the lipo battery and put it under the pcb.
+* Slide in the wrist strap through the pcb hook.
 
-### Executing program
+### Firmware
 
-* How to run the program
-* Step-by-step bullets
+* The code is in c++ made for Attiny85
+* Program it using an ISP via arduino ide
+* Important the shit will break because we blow the reset fuse so you can only code once
 ```
 code blocks for commands
 ```
