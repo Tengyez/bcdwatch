@@ -11,7 +11,7 @@ An in-depth paragraph about your project and overview of use.
 ### Usage
 
 * Press the button once to show the time, hold it 3 seconds to set the time.
-* When setting the time press once to increase by one, hold 3 seconds to move to another digit.
+* Set the time by press once to increase by one, hold 3 seconds to move to another digit.
 * To charge simply plug in the usb-c. (around 5 days per charge for a 100mah battery)
 * Green led mean battery ok and red means it's running low.
 
