@@ -51,5 +51,5 @@ For the Lipo and wriststrap you can use whatever components you want.
 | 17 | Wrist Strap 20cm *(DNP)* | 1 |
 ```
 
-## Pcb Pictures
+## PCB Pictures
 <img width="1080" height="507" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (1)" src="https://github.com/user-attachments/assets/0d99cc3a-6f9a-4cf3-a172-4e37ef07583a" />
