@@ -23,7 +23,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Firmware
 
-* The code is in c++ made for Attiny85.
+* The code is in C++ made for Attiny85.
 * Program it using an ISP via arduino ide.
 * !!! Important !!! This can only be done once because we blow the Attiny85 reset fuse.
 ```
