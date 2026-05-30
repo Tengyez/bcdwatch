@@ -29,7 +29,7 @@ code blocks for commands
 ## Materials
 
 This is the BOM of the pcb, most of them are a through hole component.
-For the Lipo aand wriststrap you can use whatever components you want.
+For the Lipo and wriststrap you can use whatever components you want.
 ```
 | No. | Component | Qty |
 | 1 | 100nF Capacitor | 5 |
