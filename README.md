@@ -1,6 +1,6 @@
-# Project Title
+# BCD-Wristwatch
 
-Simple overview of use/purpose.
+A pcb wristwatch using a display of 13 led using binary coded decimal 1248.
 
 ## Description
 
