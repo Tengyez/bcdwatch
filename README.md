@@ -57,3 +57,10 @@ For the Lipo and wriststrap you can use whatever components you want.
 
 ## PCB Pictures
 <img width="1080" height="507" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (1)" src="https://github.com/user-attachments/assets/0d99cc3a-6f9a-4cf3-a172-4e37ef07583a" />
+
+## Schematic 
+<img width="882" height="624" alt="Screenshot 2026-05-30 175603" src="https://github.com/user-attachments/assets/dedcd873-76aa-435e-88ce-f44eb7891cb1" />
+
+# Zine Poster
+<img width="1410" height="2000" alt="bcd watch zine poster" src="https://github.com/user-attachments/assets/07143536-685f-4038-a907-c44a511f5fa6" />
+
