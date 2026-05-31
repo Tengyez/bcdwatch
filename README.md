@@ -29,6 +29,12 @@ An in-depth paragraph about your project and overview of use.
 ```
 code blocks for commands
 ```
+### ISP programing
+* Use any Arduino (but for this example I'm using UNO)
+* Requires: jumperwire, breadboard, cable for arduino.
+```
+blah blah blah
+```
 
 ## Materials
 
