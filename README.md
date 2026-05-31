@@ -68,5 +68,6 @@ For the Lipo and wriststrap you can use whatever components you want.
 <img width="882" height="624" alt="Screenshot 2026-05-30 175603" src="https://github.com/user-attachments/assets/dedcd873-76aa-435e-88ce-f44eb7891cb1" />
 
 # Zine Poster
-<img width="1410" height="2000" alt="bcd watch zine poster" src="https://github.com/user-attachments/assets/07143536-685f-4038-a907-c44a511f5fa6" />
+<img width="1410" height="2000" alt="bcd watch zine poster" src="https://github.com/user-attachments/assets/ae278b3e-89d9-401f-9b2a-376a19c017e0" />
+
 
