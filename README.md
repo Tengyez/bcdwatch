@@ -45,6 +45,7 @@ pin 6 -> Digital Pin 12
 pin 7 -> Digital Pin 13
 pin 4 -> GND
 pin 8 -> 5V
+* Add a 10uF capacitor between RESET and GND in arduino to avoid arduino resetting.
 ```
 
 ## Materials
