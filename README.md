@@ -37,7 +37,13 @@ code blocks for commands
 * Use any Arduino (but for this example I'm using UNO)
 * Requires: jumperwire, breadboard, cable for arduino.
 ```
-blah blah blah
+Attiny85 to Arduino Uno 
+pin 1 -> Digital Pin 10
+pin 5 -> Digital Pin 11
+pin 6 -> Digital Pin 12
+pin 7 -> Digital Pin 13
+pin 4 -> GND
+pin 8 -> 5V
 ```
 
 ## Materials
