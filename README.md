@@ -4,7 +4,10 @@ A pcb wristwatch using a display of 13 led using binary coded decimal 1248.
 
 ## Description
 
-I wanted to make a
+This is a binary clock where the body is made of a circuit board which for me is a nice gimick and a conversation starter.
+I specifically design it to need two shift register because if I just use the attmega the pcb surface would be bland and boring.
+I also try avoid as many smd as possible except the led because I want the user to be able to debug and fix by just looking a it.
+The entire goal of this project isn't to invent a better watch, for me it's a functional art piece customized to my own style.
 
 ## Getting Started
 
@@ -14,6 +17,7 @@ I wanted to make a
 * Set the time by press once to increase by one, hold 3 seconds to move to another digit.
 * To charge simply plug in the usb-c. (around 5 days per charge for a 100mah battery)
 * Green led mean battery ok and red means it's running low.
+* You can read the clock from this tutorial: https://www.wikihow.com/Read-a-Binary-Clock
 
 ### Assembling
 
