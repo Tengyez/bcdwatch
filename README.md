@@ -36,6 +36,7 @@ code blocks for commands
 ### ISP programing
 * Use any Arduino (but for this example I'm using UNO)
 * Requires: jumperwire, breadboard, 10uF capacitor, usb type-B for com to arduino.
+* While uploading isp to arduino unplug the capacitor then put it back in after you complete the upload.
 * For more information read here: https://www.hackster.io/arjun/programming-attiny85-with-arduino-uno-afb829
 ```
 Attiny85 to Arduino Uno 
