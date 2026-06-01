@@ -4,7 +4,7 @@ A pcb wristwatch using a display of 13 led using binary coded decimal 1248.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+I wanted to make a
 
 ## Getting Started
 
