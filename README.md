@@ -35,7 +35,7 @@ code blocks for commands
 ```
 ### ISP programing
 * Use any Arduino (but for this example I'm using UNO)
-* Requires: jumperwire, breadboard, usb type-B for com to arduino.
+* Requires: jumperwire, breadboard, 10uF capacitor, usb type-B for com to arduino.
 ```
 Attiny85 to Arduino Uno 
 pin 1 -> Digital Pin 10
