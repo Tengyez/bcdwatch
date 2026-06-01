@@ -17,7 +17,7 @@ The entire goal of this project isn't to invent a better watch, for me it's a fu
 * Set the time by press once to increase by one, hold 3 seconds to move to another digit.
 * To charge simply plug in the usb-c. (around 5 days per charge for a 100mah battery)
 * Green led mean battery ok and red means it's running low.
-* You can read the clock from this tutorial: https://www.wikihow.com/Read-a-Binary-Clock
+* You can learn to read the clock from this great tutorial: https://www.wikihow.com/Read-a-Binary-Clock
 
 ### Assembling
 
