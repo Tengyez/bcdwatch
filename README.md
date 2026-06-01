@@ -38,6 +38,7 @@ code blocks for commands
 * Requires: jumperwire, breadboard, 10uF capacitor, usb type-B for com to arduino.
 * While uploading isp to arduino unplug the capacitor then put it back in after you complete the upload.
 * For more information read here: https://www.hackster.io/arjun/programming-attiny85-with-arduino-uno-afb829
+* However, the tutorial have a flaw where he connect the capacitor anode to GND DONOT follow it.
 ```
 Attiny85 to Arduino Uno 
 pin 1 -> Digital Pin 10
