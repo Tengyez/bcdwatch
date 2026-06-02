@@ -17,21 +17,3 @@ No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,S
 16,1,lipo-battery(dnp),not in schematic,square,≈100mah,-,-,-,-
 17,1,wrist-strap(dnp),not in schematic,any strap,20cm,-,-,-,-
 
-JST connector:
-https://www.lcsc.com/search?q=C5251182
-SMD LEDs:
-https://www.lcsc.com/search?q=C48689647
-Tactile switch:
-https://www.lcsc.com/search?q=C49234124
-74HC595N:
-https://www.lcsc.com/search?q=C669328
-ATtiny85-20PU:
-https://www.lcsc.com/search?q=C965497
-MCP73831T:
-https://www.lcsc.com/search?q=C625597
-USB-C:
-https://www.lcsc.com/search?q=C668623
-32.768kHz crystal:
-https://www.lcsc.com/search?q=C511702
-*** Any brand works for watch strap, capacitor, resistor and lipo battery, personally I buy from shoppee and a local electronic market.
-
