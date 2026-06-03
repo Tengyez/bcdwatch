@@ -22,9 +22,12 @@ The entire goal of this project isn't to invent a better watch, for me it's a fu
 ### Assembling
 
 * The text on the silk screen corresponse to the schematic so soldering should be easy.
+* Please flash the attiny before you solder it.
+* Solder all the smd first, then add the resistor and capacitor based on the silk screen.
+* Hold down those with tape then solder it. Finally solder the attiny, shift-register and power components.
 * Connect the lipo battery and put it under the pcb.
 * Slide in the wrist strap through the pcb hook.
-
+  
 ### Firmware
 
 * The code is in C++ made for Attiny85.
