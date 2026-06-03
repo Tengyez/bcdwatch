@@ -12,3 +12,17 @@ pin 7 -> Digital Pin 13
 pin 4 -> GND
 pin 8 -> 5V
 * Add a 10uF capacitor between RESET and GND in arduino to avoid arduino resetting.
+* you can test if the test work by uploading an led blinking code first. (connect led to 330Ω to pin5)
+
+#define F_CPU 1000000UL
+#include <avr/io.h>
+#include <util/delay.h>
+
+int main(void) {
+    DDRB |= (1 << PB0);
+    while (1) {
+        PORTB ^= (1 << PB0);
+        _delay_ms(500);
+    }
+    return 0;
+}
