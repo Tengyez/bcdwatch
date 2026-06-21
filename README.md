@@ -56,24 +56,25 @@ pin 8 -> 5V
 This is the BOM of the pcb, most of them are a through hole component.
 For the Lipo and wriststrap you can use whatever components you want.
 ```
-| No. | Component | Qty |
-| 1 | 100nF Capacitor | 5 |
-| 2 | 12pF Capacitor | 2 |
-| 3 | 4.7uF Capacitor | 2 |
-| 4 | JST B2B-PH-K-S Connector | 1 |
-| 5 | SMD LED (13 blue, 1 red, 1 green) | 15 |
-| 6 | 330Ω Resistor | 15 |
-| 7 | 10kΩ Resistor | 1 |
-| 8 | 20kΩ Resistor | 1 |
-| 9 | 5.1kΩ Resistor | 2 |
-| 10 | SMD Tactile Switch | 1 |
-| 11 | 74HC595N Shift Register | 2 |
-| 12 | ATtiny85-20PU | 1 |
-| 13 | MCP73831T-2DCI/OT Charger | 1 |
-| 14 | TYPE-C 6P USB Connector | 1 |
-| 15 | 32.768kHz Crystal | 1 |
-| 16 | LiPo Battery ~100mAh *(DNP)* | 1 |
-| 17 | Wrist Strap 20cm *(DNP)* | 1 |
+| No. | Component | Qty | cost |
+| 1 | 100nF Capacitor | 5 | 20cent
+| 2 | 12pF Capacitor | 2 | 8cent
+| 3 | 4.7uF Capacitor | 2 | 8cent
+| 4 | JST B2B-PH-K-S Connector | 1 | 5cent
+| 5 | SMD LED (13 blue, 1 red, 1 green) | 15 | 50cent
+| 6 | 330Ω Resistor | 15 | 50cent
+| 7 | 10kΩ Resistor | 1 | 5cent
+| 8 | 20kΩ Resistor | 1 | 5cent
+| 9 | 5.1kΩ Resistor | 2 | 5cent
+| 10 | SMD Tactile Switch | 1 | 5cent
+| 11 | 74HC595N Shift Register | 2 | 2usd
+| 12 | ATtiny85-20PU | 1 | 3usd
+| 13 | MCP73831T-2DCI/OT Charger | 1 | 1usd
+| 14 | TYPE-C 6P USB Connector | 1 | 1usd
+| 15 | 32.768kHz Crystal | 1 | 1usd
+| 16 | LiPo Battery ~100mAh *(DNP)* | 1 | 6usd
+| 17 | Wrist Strap 20cm *(DNP)* | 1 | 5usd
+Total cost: 20.5 usd
 ```
 
 ## PCB Pictures
