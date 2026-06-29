@@ -8,7 +8,7 @@ This is a binary clock where the body is made of a circuit board which for me is
 I specifically design it to need two shift register because if I just use the attmega the pcb surface would be bland and boring.
 I also try avoid as many smd as possible except the led because I want the user to be able to debug and fix by just looking a it.
 The entire goal of this project isn't to invent a better watch, for me it's a functional art piece customized to my own style.
-
+***The case is optional!
 ## Getting Started
 
 ### Usage
