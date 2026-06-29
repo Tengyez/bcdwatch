@@ -79,6 +79,8 @@ Total cost: 20.5 usd
 
 ## PCB Pictures
 <img width="895" height="367" alt="Screenshot 2026-06-20 021413" src="https://github.com/user-attachments/assets/0f68db99-4765-4bda-9e43-7e6ee53e01d0" />
+## With Case
+<img width="684" height="405" alt="Screenshot 2026-06-29 191538" src="https://github.com/user-attachments/assets/e56ff52f-2afc-4fe9-af60-b159344d61c6" />
 
 
 ## Schematic 
